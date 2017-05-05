@@ -1,0 +1,1 @@
+this is new sample added to master of myrepo2.
